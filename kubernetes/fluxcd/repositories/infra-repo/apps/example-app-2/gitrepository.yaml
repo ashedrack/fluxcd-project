@@ -6,7 +6,7 @@ metadata:
 spec:
   interval: 1m0s
   ref:
-    branch: fluxcd-2022
-  url: https://github.com/marcel-dempers/docker-development-youtube-series
+    branch: flux-branch
+  url: https://github.com/ashedrack/fluxcd-project
   secretRef:
     name: example-app-2-github
